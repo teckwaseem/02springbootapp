@@ -10,6 +10,11 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 		
 		
+		int x =20;
+		
+		
+		
+		
 	}
 
 }
